@@ -151,7 +151,7 @@ void loop() {
           //  bitClear(PORTB, 5);
     }
     
-    if ( !strcmp("5555", CodeSequence) ) // if equal
+    if ( !strcmp("1234", CodeSequence) ) // if equal
     {
        // DO WHATEVER YOU WANT
        bitSet(PORTB, 5);
